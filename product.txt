@@ -1,0 +1,8 @@
+fish,200.0,30
+pencil,30.0,30
+spoons,4000.0,20
+perfume,3000.0,34
+sweet,30.0,100
+chocolate,3500.0,25
+pot,3000.0,3
+oil,300.0,20
